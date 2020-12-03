@@ -37,7 +37,6 @@
   font-size: 102px;
   font-weight: bold;
   z-index: 4;
-  /*border: 1px solid black;*/
 }
 .header__subtitle {
   position: absolute;
@@ -217,7 +216,6 @@
 }
 .section-subtitle_theme_dark {
   color: white;
-  z-index: 3;
 }
 .table_theme_dark {
   margin: 0 auto 0 auto;
@@ -321,3 +319,4 @@
   height: 16px;
   margin-right: 10px;
   background-repeat: no-repeat;
+}
