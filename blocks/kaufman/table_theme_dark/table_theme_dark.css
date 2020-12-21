@@ -1,0 +1,15 @@
+.table_theme_dark {
+  margin: 0 auto 0 auto;
+}
+.table__cell_theme_dark {
+  width: 200px;
+  margin-top: 80px;
+  margin-right: 0;
+  z-index: 1;
+}
+.table__heading_theme_dark {
+  color: white;
+}
+.table__text_theme_dark {
+  color: white;
+}
