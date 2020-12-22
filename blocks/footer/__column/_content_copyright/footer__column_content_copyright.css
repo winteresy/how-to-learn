@@ -6,9 +6,3 @@
   flex-basis: 711px;
   min-height: 250px;
 }
-.footer__column_content_info {
-  display: flex;
-}
-.footer__column_content_social {
-  display: flex;
-}
